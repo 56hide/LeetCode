@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Code\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "F:\\LeetCode\\LeetCode\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "F:\\Code\\LeetCode\\LeetCode.csproj",
+      "projectPath": "F:\\LeetCode\\LeetCode\\LeetCode.csproj",
       "packagesPath": "C:\\Users\\lixiaopeng\\.nuget\\packages\\",
-      "outputPath": "F:\\Code\\LeetCode\\obj\\",
+      "outputPath": "F:\\LeetCode\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ F:\Code\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.AssemblyInfoInputs.cache
 F:\Code\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.AssemblyInfo.cs
 F:\Code\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.dll
 F:\Code\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.pdb
+F:\LeetCode\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.deps.json
+F:\LeetCode\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.runtimeconfig.json
+F:\LeetCode\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.runtimeconfig.dev.json
+F:\LeetCode\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.dll
+F:\LeetCode\LeetCode\bin\Debug\netcoreapp2.0\LeetCode.pdb
+F:\LeetCode\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.csprojResolveAssemblyReference.cache
+F:\LeetCode\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.csproj.CoreCompileInputs.cache
+F:\LeetCode\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.AssemblyInfoInputs.cache
+F:\LeetCode\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.AssemblyInfo.cs
+F:\LeetCode\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.dll
+F:\LeetCode\LeetCode\obj\Debug\netcoreapp2.0\LeetCode.pdb
